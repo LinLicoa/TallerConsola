@@ -1,0 +1,136 @@
+C:\Users\Elías Cando\Source\web\UG\Prueba_Entity\TallerConsola74\TallerConsola74\bin\Debug\net7.0\TallerConsola74.exe
+C:\Users\Elías Cando\Source\web\UG\Prueba_Entity\TallerConsola74\TallerConsola74\bin\Debug\net7.0\TallerConsola74.deps.json
+C:\Users\Elías Cando\Source\web\UG\Prueba_Entity\TallerConsola74\TallerConsola74\bin\Debug\net7.0\TallerConsola74.runtimeconfig.json
+C:\Users\Elías Cando\Source\web\UG\Prueba_Entity\TallerConsola74\TallerConsola74\bin\Debug\net7.0\TallerConsola74.dll
+C:\Users\Elías Cando\Source\web\UG\Prueba_Entity\TallerConsola74\TallerConsola74\bin\Debug\net7.0\TallerConsola74.pdb
+C:\Users\Elías Cando\Source\web\UG\Prueba_Entity\TallerConsola74\TallerConsola74\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Elías Cando\Source\web\UG\Prueba_Entity\TallerConsola74\TallerConsola74\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Elías Cando\Source\web\UG\Prueba_Entity\TallerConsola74\TallerConsola74\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Elías Cando\Source\web\UG\Prueba_Entity\TallerConsola74\TallerConsola74\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Elías Cando\Source\web\UG\Prueba_Entity\TallerConsola74\TallerConsola74\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Elías Cando\Source\web\UG\Prueba_Entity\TallerConsola74\TallerConsola74\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Elías Cando\Source\web\UG\Prueba_Entity\TallerConsola74\TallerConsola74\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Elías Cando\Source\web\UG\Prueba_Entity\TallerConsola74\TallerConsola74\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Elías Cando\Source\web\UG\Prueba_Entity\TallerConsola74\TallerConsola74\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Elías Cando\Source\web\UG\Prueba_Entity\TallerConsola74\TallerConsola74\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Elías Cando\Source\web\UG\Prueba_Entity\TallerConsola74\TallerConsola74\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Elías Cando\Source\web\UG\Prueba_Entity\TallerConsola74\TallerConsola74\bin\Debug\net7.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Elías Cando\Source\web\UG\Prueba_Entity\TallerConsola74\TallerConsola74\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Elías Cando\Source\web\UG\Prueba_Entity\TallerConsola74\TallerConsola74\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Elías Cando\Source\web\UG\Prueba_Entity\TallerConsola74\TallerConsola74\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Elías Cando\Source\web\UG\Prueba_Entity\TallerConsola74\TallerConsola74\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Elías Cando\Source\web\UG\Prueba_Entity\TallerConsola74\TallerConsola74\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+C:\Users\Elías Cando\Source\web\UG\Prueba_Entity\TallerConsola74\TallerConsola74\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Elías Cando\Source\web\UG\Prueba_Entity\TallerConsola74\TallerConsola74\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\Elías Cando\Source\web\UG\Prueba_Entity\TallerConsola74\TallerConsola74\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Elías Cando\Source\web\UG\Prueba_Entity\TallerConsola74\TallerConsola74\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Elías Cando\Source\web\UG\Prueba_Entity\TallerConsola74\TallerConsola74\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Elías Cando\Source\web\UG\Prueba_Entity\TallerConsola74\TallerConsola74\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Elías Cando\Source\web\UG\Prueba_Entity\TallerConsola74\TallerConsola74\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Elías Cando\Source\web\UG\Prueba_Entity\TallerConsola74\TallerConsola74\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Elías Cando\Source\web\UG\Prueba_Entity\TallerConsola74\TallerConsola74\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Elías Cando\Source\web\UG\Prueba_Entity\TallerConsola74\TallerConsola74\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Elías Cando\Source\web\UG\Prueba_Entity\TallerConsola74\TallerConsola74\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Elías Cando\Source\web\UG\Prueba_Entity\TallerConsola74\TallerConsola74\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Elías Cando\Source\web\UG\Prueba_Entity\TallerConsola74\TallerConsola74\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Elías Cando\Source\web\UG\Prueba_Entity\TallerConsola74\TallerConsola74\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Elías Cando\Source\web\UG\Prueba_Entity\TallerConsola74\TallerConsola74\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Elías Cando\Source\web\UG\Prueba_Entity\TallerConsola74\TallerConsola74\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Elías Cando\Source\web\UG\Prueba_Entity\TallerConsola74\TallerConsola74\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Elías Cando\Source\web\UG\Prueba_Entity\TallerConsola74\TallerConsola74\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Elías Cando\Source\web\UG\Prueba_Entity\TallerConsola74\TallerConsola74\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Elías Cando\Source\web\UG\Prueba_Entity\TallerConsola74\TallerConsola74\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Elías Cando\Source\web\UG\Prueba_Entity\TallerConsola74\TallerConsola74\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Elías Cando\Source\web\UG\Prueba_Entity\TallerConsola74\TallerConsola74\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Elías Cando\Source\web\UG\Prueba_Entity\TallerConsola74\TallerConsola74\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Elías Cando\Source\web\UG\Prueba_Entity\TallerConsola74\TallerConsola74\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Elías Cando\Source\web\UG\Prueba_Entity\TallerConsola74\TallerConsola74\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Elías Cando\Source\web\UG\Prueba_Entity\TallerConsola74\TallerConsola74\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Elías Cando\Source\web\UG\Prueba_Entity\TallerConsola74\TallerConsola74\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Elías Cando\Source\web\UG\Prueba_Entity\TallerConsola74\TallerConsola74\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Elías Cando\Source\web\UG\Prueba_Entity\TallerConsola74\TallerConsola74\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Elías Cando\Source\web\UG\Prueba_Entity\TallerConsola74\TallerConsola74\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Elías Cando\Source\web\UG\Prueba_Entity\TallerConsola74\TallerConsola74\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Elías Cando\Source\web\UG\Prueba_Entity\TallerConsola74\TallerConsola74\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Elías Cando\Source\web\UG\Prueba_Entity\TallerConsola74\TallerConsola74\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Elías Cando\Source\web\UG\Prueba_Entity\TallerConsola74\TallerConsola74\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Elías Cando\Source\web\UG\Prueba_Entity\TallerConsola74\TallerConsola74\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Elías Cando\Source\web\UG\Prueba_Entity\TallerConsola74\TallerConsola74\obj\Debug\net7.0\TallerConsola74.csproj.AssemblyReference.cache
+C:\Users\Elías Cando\Source\web\UG\Prueba_Entity\TallerConsola74\TallerConsola74\obj\Debug\net7.0\TallerConsola74.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elías Cando\Source\web\UG\Prueba_Entity\TallerConsola74\TallerConsola74\obj\Debug\net7.0\TallerConsola74.AssemblyInfoInputs.cache
+C:\Users\Elías Cando\Source\web\UG\Prueba_Entity\TallerConsola74\TallerConsola74\obj\Debug\net7.0\TallerConsola74.AssemblyInfo.cs
+C:\Users\Elías Cando\Source\web\UG\Prueba_Entity\TallerConsola74\TallerConsola74\obj\Debug\net7.0\TallerConsola74.csproj.CoreCompileInputs.cache
+C:\Users\Elías Cando\Source\web\UG\Prueba_Entity\TallerConsola74\TallerConsola74\obj\Debug\net7.0\TallerConsola74.csproj.CopyComplete
+C:\Users\Elías Cando\Source\web\UG\Prueba_Entity\TallerConsola74\TallerConsola74\obj\Debug\net7.0\TallerConsola74.dll
+C:\Users\Elías Cando\Source\web\UG\Prueba_Entity\TallerConsola74\TallerConsola74\obj\Debug\net7.0\refint\TallerConsola74.dll
+C:\Users\Elías Cando\Source\web\UG\Prueba_Entity\TallerConsola74\TallerConsola74\obj\Debug\net7.0\TallerConsola74.pdb
+C:\Users\Elías Cando\Source\web\UG\Prueba_Entity\TallerConsola74\TallerConsola74\obj\Debug\net7.0\TallerConsola74.genruntimeconfig.cache
+C:\Users\Elías Cando\Source\web\UG\Prueba_Entity\TallerConsola74\TallerConsola74\obj\Debug\net7.0\ref\TallerConsola74.dll
+C:\Angular\TallerConsola74\TallerConsola74\bin\Debug\net7.0\TallerConsola74.exe
+C:\Angular\TallerConsola74\TallerConsola74\bin\Debug\net7.0\TallerConsola74.deps.json
+C:\Angular\TallerConsola74\TallerConsola74\bin\Debug\net7.0\TallerConsola74.runtimeconfig.json
+C:\Angular\TallerConsola74\TallerConsola74\bin\Debug\net7.0\TallerConsola74.dll
+C:\Angular\TallerConsola74\TallerConsola74\bin\Debug\net7.0\TallerConsola74.pdb
+C:\Angular\TallerConsola74\TallerConsola74\bin\Debug\net7.0\Azure.Core.dll
+C:\Angular\TallerConsola74\TallerConsola74\bin\Debug\net7.0\Azure.Identity.dll
+C:\Angular\TallerConsola74\TallerConsola74\bin\Debug\net7.0\Humanizer.dll
+C:\Angular\TallerConsola74\TallerConsola74\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Angular\TallerConsola74\TallerConsola74\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Angular\TallerConsola74\TallerConsola74\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Angular\TallerConsola74\TallerConsola74\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Angular\TallerConsola74\TallerConsola74\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Angular\TallerConsola74\TallerConsola74\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Angular\TallerConsola74\TallerConsola74\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Angular\TallerConsola74\TallerConsola74\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Angular\TallerConsola74\TallerConsola74\bin\Debug\net7.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Angular\TallerConsola74\TallerConsola74\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Angular\TallerConsola74\TallerConsola74\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Angular\TallerConsola74\TallerConsola74\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Angular\TallerConsola74\TallerConsola74\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Angular\TallerConsola74\TallerConsola74\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+C:\Angular\TallerConsola74\TallerConsola74\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Angular\TallerConsola74\TallerConsola74\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Angular\TallerConsola74\TallerConsola74\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Angular\TallerConsola74\TallerConsola74\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Angular\TallerConsola74\TallerConsola74\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Angular\TallerConsola74\TallerConsola74\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Angular\TallerConsola74\TallerConsola74\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Angular\TallerConsola74\TallerConsola74\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Angular\TallerConsola74\TallerConsola74\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Angular\TallerConsola74\TallerConsola74\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Angular\TallerConsola74\TallerConsola74\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Angular\TallerConsola74\TallerConsola74\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Angular\TallerConsola74\TallerConsola74\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Angular\TallerConsola74\TallerConsola74\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Angular\TallerConsola74\TallerConsola74\bin\Debug\net7.0\System.CodeDom.dll
+C:\Angular\TallerConsola74\TallerConsola74\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Angular\TallerConsola74\TallerConsola74\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Angular\TallerConsola74\TallerConsola74\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Angular\TallerConsola74\TallerConsola74\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Angular\TallerConsola74\TallerConsola74\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Angular\TallerConsola74\TallerConsola74\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Angular\TallerConsola74\TallerConsola74\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Angular\TallerConsola74\TallerConsola74\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Angular\TallerConsola74\TallerConsola74\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Angular\TallerConsola74\TallerConsola74\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Angular\TallerConsola74\TallerConsola74\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Angular\TallerConsola74\TallerConsola74\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Angular\TallerConsola74\TallerConsola74\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Angular\TallerConsola74\TallerConsola74\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Angular\TallerConsola74\TallerConsola74\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Angular\TallerConsola74\TallerConsola74\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Angular\TallerConsola74\TallerConsola74\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Angular\TallerConsola74\TallerConsola74\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Angular\TallerConsola74\TallerConsola74\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Angular\TallerConsola74\TallerConsola74\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Angular\TallerConsola74\TallerConsola74\obj\Debug\net7.0\TallerConsola74.csproj.AssemblyReference.cache
+C:\Angular\TallerConsola74\TallerConsola74\obj\Debug\net7.0\TallerConsola74.GeneratedMSBuildEditorConfig.editorconfig
+C:\Angular\TallerConsola74\TallerConsola74\obj\Debug\net7.0\TallerConsola74.AssemblyInfoInputs.cache
+C:\Angular\TallerConsola74\TallerConsola74\obj\Debug\net7.0\TallerConsola74.AssemblyInfo.cs
+C:\Angular\TallerConsola74\TallerConsola74\obj\Debug\net7.0\TallerConsola74.csproj.CoreCompileInputs.cache
+C:\Angular\TallerConsola74\TallerConsola74\obj\Debug\net7.0\TallerConsola74.csproj.CopyComplete
+C:\Angular\TallerConsola74\TallerConsola74\obj\Debug\net7.0\TallerConsola74.dll
+C:\Angular\TallerConsola74\TallerConsola74\obj\Debug\net7.0\refint\TallerConsola74.dll
+C:\Angular\TallerConsola74\TallerConsola74\obj\Debug\net7.0\TallerConsola74.pdb
+C:\Angular\TallerConsola74\TallerConsola74\obj\Debug\net7.0\TallerConsola74.genruntimeconfig.cache
+C:\Angular\TallerConsola74\TallerConsola74\obj\Debug\net7.0\ref\TallerConsola74.dll
