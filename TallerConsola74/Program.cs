@@ -57,20 +57,20 @@ try
     //consultar todos los estudiantes
     var estudiantes = estudianteRepository.ConsultarEstudiantes();
 
-    Console.WriteLine("Estudiantes registrados:\n");
+    Console.WriteLine("\nEstudiantes registrados:\n");
     for (int i = 0; i < estudiantes.Count; i++)
     {
         Console.WriteLine($"Estudiante {estudiantes[i].Nombre} {estudiantes[i].Apellido}"); 
     }
 
     int totalEstudiante = estudianteRepository.ContarEstudiantes();
-    Console.WriteLine("Total de estudiantes: " + totalEstudiante.ToString());
+    Console.WriteLine("\nTotal de estudiantes: " + totalEstudiante.ToString());
 
     var primerEstudiante = estudianteRepository.ObtenerPrimerEstudiante();
-    Console.WriteLine("Primer elemento de la tabla: " + primerEstudiante.Cedula + "-" + primerEstudiante.Nombre);
+    Console.WriteLine("\nPrimer elemento de la tabla: " + primerEstudiante.Cedula + "-" + primerEstudiante.Nombre);
 
     // Consulta que devuelve a los estudiantes con id mayor que 2 y que el nombre sea igual a Anita
-    Console.WriteLine("Consulta que devuelve a los estudiantes con id mayor que 2 y que el nombre sea igual a Anita\r\n");
+    Console.WriteLine("\nConsulta que devuelve a los estudiantes con id mayor que 2 y que el nombre sea igual a Anita\r\n");
     var anita = estudianteRepository.TraerAnita();
     foreach (var item in anita)
     {
@@ -78,7 +78,7 @@ try
     }
 
     // Consulta que devuelve a los estudiantes donde el nombre sea igual Patty o Anita
-    Console.WriteLine("Consulta que devuelve a los estudiantes donde el nombre sea igual Patty o Anita");
+    Console.WriteLine("\nConsulta que devuelve a los estudiantes donde el nombre sea igual Patty o Anita");
     var alumnas = estudianteRepository.TraerPattyAnita();
     foreach (var item in alumnas)
     {
@@ -86,20 +86,20 @@ try
     }
 
     // Consulta que devuelve a los estudiantes que su nombre comienzan con la letra A
-    Console.WriteLine("Consulta que devuelve a los estudiantes que su nombre comienzan con la letra A");
+    Console.WriteLine("\nConsulta que devuelve a los estudiantes que su nombre comienzan con la letra A");
     var A = estudianteRepository.EstudiantesA();
     foreach (var item in A)
     {
         Console.WriteLine("Codigo: " + item.EstudianteId + " Nombre: " + item.Nombre);
     }
 
-    //var grupoEstudiante = estudianteRepository.GrupoEstudiantes;
-
-    //foreach (var resultado in grupoEstudiante)
-    //{
-    //    Console.WriteLine($"Nombre: {resultado.Nombre}, Cantidad: {resultado.Cantidad}");
-    //}
-
+    // Consulta que devuelve a los estudiantes que su nombre comienzan con la letra A
+    Console.WriteLine("\nConsulta de nombres por medio de Group By");
+    var grupoEstudiante = estudianteRepository.GrupoEstudiantes();
+    foreach (var resultado in grupoEstudiante)
+    {
+        Console.WriteLine($"Nombre: {resultado.Nombre}, Cantidad: {resultado.Cantidad}");
+    }
 
 
 }

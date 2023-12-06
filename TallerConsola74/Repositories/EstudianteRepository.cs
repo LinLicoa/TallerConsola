@@ -62,17 +62,24 @@ namespace TallerConsola74.Repositories
             return _context.Estudiantes.Where(e => e.Nombre.StartsWith("A")).ToList();
         }
 
-        public List<Estudiante> GrupoEstudiantes()
+        public class EstudianteGrupo
+        {
+            public string Nombre { get; set; }
+            public int Cantidad { get; set; }
+        }
+
+        public List<EstudianteGrupo> GrupoEstudiantes()
         {
             // Uso de GroupBy
             return _context.Estudiantes
                 .GroupBy(e => e.Nombre)
-                .Select(grupo => new Estudiante
+                .Select(grupo => new EstudianteGrupo
                 {
                     Nombre = grupo.Key,
                     Cantidad = grupo.Count()
                 }).ToList();
         }
+
 
     }
 }
